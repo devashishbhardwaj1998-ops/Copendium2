@@ -1,0 +1,6 @@
+{
+  "name": "Compendium",
+  "description": "An internal encyclopedia and casebook of complex private-market cases and real Gain asset examples for analysts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
